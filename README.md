@@ -1,6 +1,9 @@
 # Data Structures and Algorithms
 
-* notes and exercises
+|     Notes and exercises      |    ![](https://skillicons.dev/icons?i=c) |
+| :----------------: | :---------------------------------------------------: |
+
+
 
 ## Reference
 
